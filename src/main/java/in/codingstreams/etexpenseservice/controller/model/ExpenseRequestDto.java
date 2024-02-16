@@ -15,5 +15,4 @@ public class ExpenseRequestDto {
   private String title;
   private String amount;
   private String expenseCategoryId;
-  private RequestType requestType;
 }
